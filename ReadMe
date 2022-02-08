@@ -1,0 +1,13 @@
+to run the code you need to install python 3.7 and selenium
+make sure that pip is installed in your terminal(cmd for windows)
+to install selenium go to terminal and run: pip install selenium
+to run the code go to the code directory path and type the command below:
+python auto_buy_bot.py
+This script will be running infinitely 
+
+************************************************************************
+To stop the script please type CTRL+C ON THE TERMINAL **ONLY ONE TIME**
+************************************************************************
+
+Note that you need a good internet connection for the bot to be running in a stable condition.
+

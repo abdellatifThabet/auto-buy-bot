@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gnome-terminal -e "python /home/ubuntu-vm/last-release/portugal-auto-buy.py"
+gnome-terminal -e "python /home/ubuntu-vm/last-release/spain-auto-buy.py"
+
